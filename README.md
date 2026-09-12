@@ -100,6 +100,10 @@ The analysis can help organizations identify potential employee attrition patter
 - Testing additional machine learning algorithms
 - Deployment as a web application
 
-## Author
+---
+
+## 👩‍💻 Author
 
 **Zoya**
+
+Engineering Student | Machine Learning Enthusiast
